@@ -1,0 +1,1 @@
+.app{max-width:800px;margin:0 auto;padding:20px}.card-container{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:20px}.card{border:1px solid #ddd;border-radius:8px;padding:20px;box-shadow:0 2px 4px #0000001a}.card h2{margin-top:0;color:#333}.card p{margin-bottom:.5em;color:#666}.heading{text-align:center}
